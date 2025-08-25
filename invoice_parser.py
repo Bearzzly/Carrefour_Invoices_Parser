@@ -1,5 +1,3 @@
-print("hey")
-
 #pip install pdfplumber
 
 # Un fichier
